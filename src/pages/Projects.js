@@ -40,7 +40,7 @@ function Projects(){
     <Project
 
     link='https://final-project-red-delta.vercel.app/'
-    imagePath='/images/screely-screely-1753725633136.png'
+    imagePath='/images/screely-1753725633136.png'
     programmingLngs={['React', 'Tailwind', 'Node.js', "Firebase", , "Javascript"]}
    
     />
